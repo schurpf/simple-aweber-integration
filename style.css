@@ -1,0 +1,223 @@
+/*******************************************************
+Style ALL
+********************************************************/
+
+#simple-aweber-integration{
+    clear: both;
+    margin-bottom: 20px
+}
+
+.simple-aweber-integration-style{
+    -moz-border-bottom-colors: none;
+    -moz-border-left-colors: none;
+    -moz-border-right-colors: none;
+    -moz-border-top-colors: none;
+    background: none repeat scroll 0 0 #FAFAFA;
+    border-color: #E6E6E6;
+    border-image: none;
+    border-style: solid;
+    border-width: 1px 0;
+    
+}
+
+/*aweber in single post*/
+/*#simple-aweber-integration  .af-form-wrapper{
+	margin-bottom: 20px;
+}*/
+
+#simple-aweber-integration .af-form, #simple-aweber-integration .af-form .quirksMode{
+	width: 100%;
+}
+
+#simple-aweber-integration .af-body{
+	min-height: 50px;
+}
+
+#simple-aweber-integration .af-element{
+	float: left;
+	width: 28%;
+        min-height: 50px;
+}
+
+#simple-aweber-integration .buttonContainer{
+
+}
+
+#simple-aweber-integration .bodyText{
+
+}
+
+#simple-aweber-integration .af-header{
+	
+}
+
+#simple-aweber-integration .af-footer{
+	
+}
+
+#simple-aweber-integration .buttonContainer{
+	float:right;
+}
+
+/*******************************************************
+Style No Header
+********************************************************/
+#simple-aweber-integration-nheader{
+    clear: both;
+    margin-bottom: 20px
+}
+
+.simple-aweber-integration-style{
+    -moz-border-bottom-colors: none;
+    -moz-border-left-colors: none;
+    -moz-border-right-colors: none;
+    -moz-border-top-colors: none;
+    background: none repeat scroll 0 0 #FAFAFA;
+    border-color: #E6E6E6;
+    border-image: none;
+    border-style: solid;
+    border-width: 1px 0;
+    
+}
+
+/*aweber in single post*/
+/*#simple-aweber-integration-nheader  .af-form-wrapper{
+	margin-bottom: 20px;
+}*/
+
+#simple-aweber-integration-nheader .af-form, #simple-aweber-integration-nheader .af-form .quirksMode{
+	width: 100%;
+}
+
+#simple-aweber-integration-nheader .af-body{
+	min-height: 50px;
+}
+
+#simple-aweber-integration-nheader .af-element{
+	float: left;
+	width: 28%;
+        min-height: 50px;
+}
+
+#simple-aweber-integration-nheader .buttonContainer{
+
+}
+
+#simple-aweber-integration-nheader .bodyText{
+
+}
+
+#simple-aweber-integration-nheader .af-header{
+	display: none;
+}
+
+#simple-aweber-integration-nheader .af-footer{
+	
+}
+
+#simple-aweber-integration-nheader .buttonContainer{
+	float:right;
+}
+
+/*******************************************************
+Style No Footer
+********************************************************/
+#simple-aweber-integration-nfooter{
+    clear: both;
+    margin-bottom: 20px
+}
+
+/*aweber in single post*/
+/*#simple-aweber-integration-nfooter  .af-form-wrapper{
+	margin-bottom: 20px;
+}*/
+
+#simple-aweber-integration-nfooter .af-form, #simple-aweber-integration-nfooter .af-form .quirksMode{
+	width: 100%;
+}
+
+#simple-aweber-integration-nfooter .af-body{
+	min-height: 50px;
+}
+
+#simple-aweber-integration-nfooter .af-element{
+	float: left;
+	width: 28%;
+        min-height: 50px;
+}
+
+#simple-aweber-integration-nfooter .buttonContainer{
+
+}
+
+#simple-aweber-integration-nfooter .bodyText{
+
+}
+
+#simple-aweber-integration-nfooter .af-footer{
+	display: none;
+}
+
+#simple-aweber-integration-nfooter .buttonContainer{
+	float:right;
+}
+
+/*******************************************************
+Style No Header No Footer
+********************************************************/
+#simple-aweber-integration-nh-nf{
+    clear: both;
+    margin-bottom: 20px
+}
+
+.simple-aweber-integration-style{
+    -moz-border-bottom-colors: none;
+    -moz-border-left-colors: none;
+    -moz-border-right-colors: none;
+    -moz-border-top-colors: none;
+    background: none repeat scroll 0 0 #FAFAFA;
+    border-color: #E6E6E6;
+    border-image: none;
+    border-style: solid;
+    border-width: 1px 0;
+    
+}
+
+/*aweber in single post*/
+/*#simple-aweber-integration-nh-nf  .af-form-wrapper{
+	margin-bottom: 20px;
+}*/
+
+#simple-aweber-integration-nh-nf .af-form, #simple-aweber-integration-nh-nf .af-form .quirksMode{
+	width: 100%;
+}
+
+#simple-aweber-integration-nh-nf .af-body{
+	min-height: 50px;
+}
+
+#simple-aweber-integration-nh-nf .af-element{
+	float: left;
+	width: 28%;
+        min-height: 50px;
+}
+
+#simple-aweber-integration-nh-nf .buttonContainer{
+
+}
+
+#simple-aweber-integration-nh-nf .bodyText{
+
+}
+
+#simple-aweber-integration-nh-nf .af-header{
+	display: none;
+}
+
+#simple-aweber-integration-nh-nf .af-footer{
+	display: none;
+}
+
+#simple-aweber-integration-nh-nf .buttonContainer{
+	float:right;
+}
